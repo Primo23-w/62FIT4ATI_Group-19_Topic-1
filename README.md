@@ -7,7 +7,8 @@ This repository implements a Feedforward Neural Network (MLP) for predicting dia
 - Optimized for imbalance (~84% healthy).  
 
 # Repository Contents:  
-- 62FIT4ATI_Group_19_Topic_1.ipynb: Jupyter notebook with code, explanations, and results.  
+- 62FIT4ATI_Group_19_Topic_1.ipynb: Jupyter notebook with code, explanations, and results.
+- report.docx: Project's report.
 - diabetes_risk_model.joblib: Trained MLP model.  
 - scaler.joblib: StandardScaler for input preprocessing.    
 - requirements.txt: Dependencies.  
@@ -81,4 +82,5 @@ Hardware/Env Differences: Results may vary slightly due to floating-point precis
   - **Bui Minh Quan - 2201140070**
   - **Dinh Ngoc Dung - 2201140017**
   - **Nguyen Khoa Dang - 2201140022**
+
 
